@@ -4,8 +4,11 @@
 
     <style name="AppTheme" parent="Theme.MaterialComponents.Light">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/colorPrimaryV21</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkV21</item>
+        <item name="colorAccent">@color/colorPrimaryDarkV21</item>
+        <item name="colorControlHighlight">@color/colorControlHighlightV21</item>
+        <item name="colorControlActivated">@color/colorControlActivatedV21</item>
+        <item name="colorButtonNormal">@color/colorButtonNormalV21</item>
     </style>
 </resources>
